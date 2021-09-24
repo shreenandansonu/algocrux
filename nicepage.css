@@ -35922,40 +35922,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables custom-site-css*/<div class="loader"></div>
-CSS
-
-.loader{
-    width: 240px;
-    height: 50px;
-    margin: 70px auto 0;
-    border-radius: 8px;
-    box-shadow: 0 0 0 7px #42a5f5, inset 0 0 0 1px #42a5f5;
-    overflow: hidden;
-    position: relative; 
-    animation: rotate 6s linear infinite;
-}
-.loader:before{
-    content: "";
-    background-color:#42a5f5;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    animation: load 6s linear infinite;
-}
-@keyframes rotate {
-    0%, 42% { transform: rotate(0deg); }
-    48%, 92% { transform: rotate(180deg); }
-    100% { transform: rotate(360deg); }
-}
-@keyframes load {
-    0% { width: 0; }
-    40%, 50% { width: 100%; }
-    90%, 100% { width: 0; }     
-}
-License Terms
-/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
