@@ -35916,10 +35916,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    font-size: 0.625rem;
+    font-size: 0.5625rem;
     width: auto;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 16px 0;
   }
 }
 
