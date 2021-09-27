@@ -35872,15 +35872,20 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-2 {
+    min-height: 82px;
+  }
+
   .u-header .u-image-5 {
     width: 145px;
     height: 82px;
-    margin-top: 4px;
+    margin-top: 1px;
   }
 
   .u-header .u-menu-1 {
     margin-top: -65px;
     margin-right: 12px;
+    margin-bottom: 35px;
   }
 }
 .u-footer {
