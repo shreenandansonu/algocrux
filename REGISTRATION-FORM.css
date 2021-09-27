@@ -34,6 +34,7 @@
   height: 120px;
   animation-duration: 1000ms;
   box-shadow: 0 2px 12px 10px rgba(171,223,49,0.75);
+  background-image: none;
   margin: 38px auto 0;
 }
 
@@ -63,6 +64,7 @@
   animation-duration: 1000ms;
   box-shadow: 0 2px 12px 10px rgba(171,223,49,0.75);
   color: rgb(171, 223, 49) !important;
+  background-image: none;
   margin: 38px auto 0;
 }
 
