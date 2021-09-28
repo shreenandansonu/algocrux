@@ -35903,6 +35903,11 @@ a.u-link.u-text-hover-grey-90:hover {
   font-family: hemiheadbdit;
   margin: 13px auto;
 }
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
     width: 510px;

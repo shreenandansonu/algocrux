@@ -199,6 +199,8 @@
   font-size: 1.25rem;
   font-weight: 700;
   font-family: hemiheadbdit;
+  animation-duration: 2000ms;
+  background-image: none;
   margin: 80px auto 0 23px;
   padding: 10px 42px 11px 41px;
 }
@@ -210,7 +212,7 @@
   font-size: 1.25rem;
   font-weight: 700;
   font-family: hemiheadbdit;
-  margin: -53px 23px 60px auto;
+  margin: -53px 23px 0 auto;
   padding: 10px 42px 11px 41px;
 }
 
