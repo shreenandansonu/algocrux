@@ -161,7 +161,7 @@
 }
 
 .u-header .u-sheet-1 {
-  min-height: 515px;
+  min-height: 472px;
 }
 
 .u-header .u-image-2 {
@@ -212,13 +212,13 @@
   font-size: 1.25rem;
   font-weight: 700;
   font-family: hemiheadbdit;
-  margin: -53px 23px 0 auto;
+  margin: -53px 23px 51px auto;
   padding: 10px 42px 11px 41px;
 }
 
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 411px;
+    min-height: 375px;
   }
 
   .u-header .u-image-2 {
@@ -261,7 +261,7 @@
 
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 392px;
+    min-height: 356px;
   }
 
   .u-header .u-image-2 {
@@ -294,7 +294,7 @@
 
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 376px;
+    min-height: 340px;
   }
 
   .u-header .u-image-2 {
@@ -325,13 +325,13 @@
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 214px;
+    min-height: 216px;
   }
 
   .u-header .u-image-2 {
     width: 189px;
     height: 15px;
-    margin-top: 29px;
+    margin-top: 20px;
     margin-right: auto;
     margin-left: 151px;
   }
@@ -370,7 +370,7 @@
   .u-header .u-btn-2 {
     font-size: 0.75rem;
     margin-top: -20px;
-    margin-bottom: 18px;
+    margin-bottom: 12px;
     padding: 0 4px;
   }
 }@font-face {
