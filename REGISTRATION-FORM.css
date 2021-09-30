@@ -155,6 +155,22 @@
   .u-section-1 .u-btn-2 {
     margin-top: 55px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 78px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  margin-bottom: 0;
+  height: auto;
+  min-height: 67px;
+  margin-top: 11px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-custom-html-1 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
 }.u-header .u-image-1 {
   background-image: linear-gradient(0deg, rgba(48,51,41,0.3), rgba(48,51,41,0.3));
   background-position: 50% 50%;
