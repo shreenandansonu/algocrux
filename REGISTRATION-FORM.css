@@ -186,7 +186,7 @@
 }
 
 .u-header .u-sheet-1 {
-  min-height: 464px;
+  min-height: 472px;
 }
 
 .u-header .u-image-2 {
@@ -229,14 +229,15 @@
 }
 
 .u-header .u-image-5 {
-  width: 244px;
+  width: 251px;
   height: 57px;
-  margin: -55px auto 41px 38px;
+  box-shadow: 2px 2px 8px 0 rgba(0,0,0,1);
+  margin: -55px auto 49px 23px;
 }
 
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 369px;
+    min-height: 375px;
   }
 
   .u-header .u-image-2 {
@@ -272,13 +273,13 @@
   }
 
   .u-header .u-image-5 {
-    margin-left: 38px;
+    width: 251px;
   }
 }
 
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 350px;
+    min-height: 356px;
   }
 
   .u-header .u-image-2 {
@@ -305,13 +306,17 @@
   }
 
   .u-header .u-btn-1 {
-    margin-top: -446px;
+    margin-top: -494px;
+  }
+
+  .u-header .u-image-5 {
+    margin-bottom: 60px;
   }
 }
 
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 334px;
+    min-height: 340px;
   }
 
   .u-header .u-image-2 {
@@ -334,13 +339,13 @@
   }
 
   .u-header .u-btn-1 {
-    margin-top: -371px;
+    margin-top: -419px;
   }
 }
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 196px;
+    min-height: 190px;
   }
 
   .u-header .u-image-2 {
@@ -375,17 +380,17 @@
 
   .u-header .u-btn-1 {
     font-size: 0.75rem;
-    margin-top: 38px;
+    margin-top: 28px;
     margin-right: 18px;
     padding: 0 4px;
   }
 
   .u-header .u-image-5 {
-    width: 123px;
-    height: 29px;
-    margin-top: -24px;
-    margin-bottom: 14px;
-    margin-left: 13px;
+    width: 104px;
+    height: 19px;
+    margin-top: -19px;
+    margin-bottom: 23px;
+    margin-left: 18px;
   }
 }@font-face {
   font-family: 'hemiheadbdit';
