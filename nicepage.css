@@ -35845,6 +35845,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-2 {
   font-size: 1rem;
   letter-spacing: 0px;
+  font-family: "Open Sans", sans-serif;
 }
 
 .u-header .u-btn-2 {
@@ -35897,13 +35898,17 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -61px;
-    margin-right: 10px;
+    margin-top: -60px;
+    margin-right: 0;
+  }
+
+  .u-header .u-nav-2 {
+    font-family: hemiheadbdit;
   }
 
   .u-header .u-btn-2 {
     font-size: 0.75rem;
-    margin: -21px 73px 30px auto;
+    margin: -22px 73px 30px auto;
   }
 }
 .u-footer {
