@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 739px;
+  min-height: 762px;
 }
 
 .u-section-1 .u-image-1 {
   height: 641px;
-  margin-top: 49px;
-  margin-bottom: 49px;
+  margin-top: 70px;
+  margin-bottom: 51px;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
 }
 
@@ -30,8 +30,6 @@
 
   .u-section-1 .u-image-1 {
     height: 192px;
-    margin-top: 25px;
-    margin-bottom: 25px;
   }
 }.u-section-2 {
   background-image: none;
