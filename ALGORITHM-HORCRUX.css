@@ -770,13 +770,13 @@
 
 .u-section-4 .u-gallery-1 {
   height: 101px;
-  width: 359px;
+  width: 244px;
   margin: 0 auto;
 }
 
 .u-section-4 .u-gallery-inner-1 {
   grid-gap: 25px 25px;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
 }
 
 .u-section-4 .u-over-slide-1 {
@@ -789,15 +789,6 @@
 }
 
 .u-section-4 .u-over-slide-2 {
-  padding: 20px;
-}
-
-.u-section-4 .u-gallery-item-3 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-4 .u-over-slide-3 {
   padding: 20px;
 }
 
@@ -1037,7 +1028,7 @@
   }
 
   .u-section-4 .u-gallery-inner-1 {
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(2, auto);
   }
 
   .u-section-4 .u-list-1 {
@@ -1128,12 +1119,11 @@
   }
 
   .u-section-4 .u-gallery-1 {
-    height: 246px;
-    width: 291px;
+    height: 404px;
   }
 
   .u-section-4 .u-gallery-inner-1 {
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(1, auto);
   }
 
   .u-section-4 .u-list-1 {
@@ -1198,14 +1188,6 @@
   .u-section-4 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-4 .u-gallery-1 {
-    height: 738px;
-  }
-
-  .u-section-4 .u-gallery-inner-1 {
-    grid-template-columns: repeat(1, auto);
   }
 
   .u-section-4 .u-repeater-1 {
@@ -1332,7 +1314,6 @@
   }
 
   .u-section-4 .u-gallery-1 {
-    height: 81px;
     width: 298px;
     margin-top: 23px;
   }
@@ -1346,10 +1327,6 @@
   }
 
   .u-section-4 .u-over-slide-2 {
-    padding: 0;
-  }
-
-  .u-section-4 .u-over-slide-3 {
     padding: 0;
   }
 
