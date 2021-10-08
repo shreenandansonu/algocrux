@@ -8,8 +8,8 @@
 
 .u-section-1 .u-image-1 {
   height: 641px;
-  margin-top: 70px;
-  margin-bottom: 51px;
+  margin-top: 72px;
+  margin-bottom: 49px;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
 }
 
@@ -20,14 +20,18 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 {
+    min-height: auto;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 242px;
+    min-height: 252px;
   }
 
   .u-section-1 .u-image-1 {
     height: 192px;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 }.u-section-2 {
   background-image: none;
